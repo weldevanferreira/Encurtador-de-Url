@@ -4,7 +4,7 @@
 Para o funcionamento da ferramenta, é preciso instalar biblioteca pyshorteners.
 pip install pyshorteners
 
-No campo Sua API Bitly, você vai adicionar a API que gerado no site da Bitly
+No campo (Sua API Bitly), adicione a API  gerado no site da Bitly
 
 s = pyshorteners.Shortener(api_key='Sua API Bitly') 
 
